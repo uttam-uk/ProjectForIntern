@@ -8,22 +8,22 @@
    Angular CLI (https://angular.io/cli)
 
 # For Back-end 
-install node_moduals : npm install
-Make connection of MongoDB
-Start server : node server.js
+   1.install node_moduals : npm install
+   2.Make connection of MongoDB
+   3.Start server : node server.js
 
-result : Server Start Successfully !
-         Data Base Connected Successfully !
+   result : Server Start Successfully !
+            Data Base Connected Successfully !
 
 # For Front-end
-  install node_moduals : npm install
-  npm run start 
-  ng serve --open
+   1.install node_moduals : npm install
+   2.npm run start 
+   3.ng serve --open
 
-  result : Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ 
+   result : Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ 
 
 # Work Usage
-  To add a new task, click on the "Submit" button and provide the necessary details.
-  To edit a task, click on the "Edit" button. Make the necessary changes.
-  To delete a task, click on the "Delete" button.
+   1.To add a new task, click on the "Submit" button and provide the necessary details.
+   2.To edit a task, click on the "Edit" button. Make the necessary changes.
+   3.To delete a task, click on the "Delete" button.
 
